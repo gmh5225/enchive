@@ -10,6 +10,8 @@
 #include "chacha.h"
 #include "optparse.h"
 
+#include <io.h>
+
 #ifdef _MSC_VER
 #  pragma comment(lib, "advapi32.lib")
 #endif
